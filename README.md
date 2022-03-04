@@ -17,9 +17,9 @@
   <h2>Hi there 👋 I am Moussa Cissokho</h2>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-
+- I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
+- I am fluent in classics like Javascript and Python.
+- My field of Interest's are building new  Web Technologies and Products and also in areas related to Deep Learning
 - :zap: In my free time, I solve problems and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
