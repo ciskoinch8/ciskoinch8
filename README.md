@@ -11,10 +11,9 @@
   <h2>Hi 👋 I am Moussa Cissokho</h2>
 </div>
 
-- 🔭 I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
-- 🧑‍💻 I am fluent in classics like Javascript and Python.
-- 🏗️My field of Interest's are building new  Web Technologies and Products and also in areas related to Deep Learning
-- :zap: In my free time, I solve problems and read tech articles.
+- 🔭 I fell in love with programming
+- 🧑‍💻 I like to learn, practice and create 
+- :zap: In my free time, I try to solve problems and read technical articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
