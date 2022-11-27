@@ -11,9 +11,9 @@
   <h2>Hi 👋 I am Moussa Cissokho</h2>
 </div>
 
-### I fell in love with programming 
-### I like to learn, practice and create  
-### In my free time, I try to solve problems and read technical articles.
+I fell in love with programming 
+I like to learn, practice and create  
+In my free time, I try to solve problems and read technical articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
