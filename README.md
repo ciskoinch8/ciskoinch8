@@ -44,4 +44,4 @@ In my free time, I try to solve problems and read technical articles.
 
 </p>
 
-⭐️ From [Moussa Cissokho](https://github.com/ciskoinch8)
+⭐️ By [Moussa Cissokho](https://github.com/ciskoinch8)
