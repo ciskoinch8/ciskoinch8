@@ -1,5 +1,5 @@
 
-  <h2>Hi 👋 I am Moussa Cissokho</h2>
+  <h2>Hi, I am Moussa Cissokho</h2>
 </div>
 
 I fell in love with programming  
